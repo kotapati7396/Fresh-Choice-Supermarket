@@ -1,0 +1,6 @@
+1		aata		20		 9		20
+2		daal		30		 8		7
+3		sugar		40		 50		10
+4		soyaoil		40		 20		10
+5		soap		10		 100		0
+0				
