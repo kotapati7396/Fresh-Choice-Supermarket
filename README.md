@@ -1,4 +1,4 @@
-# my-kirana-store
+# Fresh-choice-Supermarket
 **( A dsa and OOPs based project in c++ language )**
 
 **Introduction**
